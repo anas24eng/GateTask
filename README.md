@@ -1,4 +1,4 @@
-Navigate to anas 
-create virtual env
-pip install django 
-python manage.py runserver
+1 . Navigate to anas 
+2. create virtual env
+3. pip install django 
+4. python manage.py runserver
